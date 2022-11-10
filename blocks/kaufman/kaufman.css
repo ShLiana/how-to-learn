@@ -1,0 +1,7 @@
+.kaufman {
+    background-color: #1f1f1f;
+    overflow: hidden;
+    position: relative;
+    align-items: center; /*выравнивание элементов внутри родит. блока kaufman*/
+    z-index: 1;
+  }

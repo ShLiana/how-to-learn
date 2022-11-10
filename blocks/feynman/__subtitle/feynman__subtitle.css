@@ -1,0 +1,10 @@
+.feynman__subtitle {
+    font-size: 36px;
+    line-height: 51px;
+    font-weight: normal;
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    text-align: center; /*подзаголовок "выучить и забыть" выравнивает по центру*/
+  }

@@ -1,0 +1,16 @@
+@keyframes rotation { /*для header__square-pic и kaufman__triangle прописали вращение 360 град*/
+  0% {
+      transform:rotate(0deg);
+
+  }
+  100% {
+       transform:rotate(360deg);
+
+  }
+}
+
+.rotation {
+  animation: rotation 20s linear infinite;
+}
+
+

@@ -1,0 +1,7 @@
+.table__heading {
+    font-size: 24px; /*размер шрифта*/
+    line-height: 1.15; /*высота строки текста*/
+    font-weight: 600; /*насыщенность шрифта*/
+    margin: 0;
+    padding: 0;
+  }

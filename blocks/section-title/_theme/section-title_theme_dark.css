@@ -1,0 +1,10 @@
+.section-title_theme_dark {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: 600;
+  margin: 90px auto 20px;
+  color: white;
+}
